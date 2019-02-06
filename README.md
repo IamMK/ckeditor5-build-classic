@@ -7,8 +7,7 @@
 * Code,
 * Italic,
 * BlockQuote,
-* CKFinder,
-* EasyImage,
+* Simple Upload
 * Heading,
 * Image,
 * ImageCaption,
